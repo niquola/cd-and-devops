@@ -11,9 +11,11 @@
     * http://martinfowler.com/bliki/BranchByAbstraction.html
     * http://martinfowler.com/bliki/FeatureToggle.html
 * VC as communication culture
-* Code reviews
-* distrubuted VC: git & mercurial
-  * git crash course
+  * Code reviews
+  * transparency
+  * github.com, gilab, bitbucket
+* DVCS: git & mercurial
+  * git crash course?
 
 
 team branches ?
