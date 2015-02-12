@@ -10,6 +10,7 @@
   * branch by abstraction 
     * http://martinfowler.com/bliki/BranchByAbstraction.html
     * http://martinfowler.com/bliki/FeatureToggle.html
+  * anti: http://martinfowler.com/bliki/SemanticConflict.html
 * VC as communication culture
   * Code reviews
   * transparency
