@@ -17,6 +17,7 @@
 * DVCS: git & mercurial
   * git crash course?
 
+http://www.infoq.com/articles/agile-version-control =>
 
 team branches ?
 development branch ?
