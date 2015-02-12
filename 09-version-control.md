@@ -2,8 +2,8 @@
 
 * Branching strategies
   * feature branch 
-    *http://nvie.com/posts/a-successful-git-branching-model/
-    *http://martinfowler.com/bliki/FeatureBranch.html
+    * http://nvie.com/posts/a-successful-git-branching-model/
+    * http://martinfowler.com/bliki/FeatureBranch.html
   * master/trunk 
     * http://martinfowler.com/articles/continuousIntegration.html#EveryoneCommitsToTheMainlineEveryDay
     * http://code.flickr.net/2009/12/02/flipping-out/
