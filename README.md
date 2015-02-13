@@ -1,1 +1,30 @@
 # cd-and-devops
+
+
+Plan:
+
+* [Problem definition](problematica.md)
+* [Value Stream Map](value-stream-map.md)
+* [LEAN & TPS](lean.md)
+* [COIN GAME](coin-game.md)
+* [MUDA GLASS](muda-glass.md)
+* [Problem Solving](problem-solvers.md)
+* [Stream & Flow](stream.md)
+* [Delivery Pipeline](delivery-pipeline.md)
+* [Version controll](version-control.md)
+* [Dependency Management](dependency-management.md)
+* [CI](continuous-integration.md)
+* [Infrastucture](infrastructure.md)
+* [Virtualization](virtualization-and-containers.md)
+* [Deploy Automation](deploy-automation.md)
+* [DOCKER](docker.md)
+* [ANSIBLE & CHEF](ansible-and-chef.md)
+* [STAGING](staging.md)
+* [DEPLOY STRATEGIES](deploy-strategy.md)
+* [Service Discovery & Coordination](service-discovery-and-coordination.md)
+* [MONITORING & AUDIT](monitoring.md)
+* [DISASTER PLANING](disaster-planing.md)
+* [KAIZEN](kaizen.md)
+* [TODO: People & Tooling]()
+* [Community](community.md)
+* [Books](books.md)
