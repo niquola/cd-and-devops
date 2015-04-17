@@ -1,0 +1,48 @@
+---
+# Only the main Sass file needs front matter (the dashes are enough)
+---
+@charset "utf-8";
+
+@font-face{
+  font-family: 'Source Code Pro';
+  font-weight: 200;
+  font-style: normal;
+  font-stretch: normal;
+  src: url('http://adobe-fonts.github.io/source-code-pro/EOT/SourceCodePro-Medium.eot') format('embedded-opentype'),
+  url('http://adobe-fonts.github.io/source-code-pro/WOFF/OTF/SourceCodePro-Medium.otf.woff') format('woff'),
+  url('http://adobe-fonts.github.io/source-code-pro/OTF/SourceCodePro-Medium.otf') format('opentype'),
+  url('http://adobe-fonts.github.io/source-code-pro/TTF/SourceCodePro-Medium.ttf') format('truetype');
+}
+
+body {
+  padding-top: 100px;
+  font-family:'Source Code Pro', monospace !important;
+  background-color: #1E1E1E !important;
+  color: #eee;
+  font-size: 18px;
+}
+a.navbar-brand {
+  color: #FFB964 !important;
+}
+
+h3 {
+  color: #BED6FF !important;
+}
+
+body .navbar-inverse {
+  background: black;
+}
+.comments {
+  color: #888888 !important;
+}
+
+a {
+  color: #79ABFF!important;
+}
+.post-title {
+  text-align: right;
+  color: #aaa;
+  text-shadow: -1px -1px 1px black;
+  border-bottom: 1px solid #555;
+  margin-bottom: 2em;
+}

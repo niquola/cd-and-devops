@@ -1,0 +1,21 @@
+<nav class="navbar navbar-default navbar-fixed-top navbar-inverse">
+  <div class="container">
+    <div class="navbar-header">
+      <!-- The mobile navbar-toggle button can be safely removed since you do not need it in a non-responsive implementation -->
+      <a class="navbar-brand" href="/">DevOps/CD cards</a>
+    </div>
+    <!-- Note that the .navbar-collapse and .collapse classes have been removed from the #navbar -->
+    <div id="navbar">
+      <ul class="nav navbar-nav">
+        {% for page in site.pages %}
+          {% if page.title %}
+          <li><a href="{{page.url | prepend: site.baseurl }}">{{ page.title }}</a></li>
+          {% endif %}
+        {% endfor %}
+      </ul>
+      <ul class="nav navbar-nav navbar-right">
+        <li><a href="https://github.com/niquola/cd-and-devops">gh</a></li>
+      </ul>
+    </div>
+  </div>
+</nav>

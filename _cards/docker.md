@@ -1,4 +1,9 @@
-## Docker
+---
+layout: post
+title:  "Docker"
+summary: "containers"
+tags: config-mng
+---
 
 ![doc](https://blog.linode.com/wp-content/uploads/2014/01/docker.png)
 

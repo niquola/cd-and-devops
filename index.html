@@ -1,0 +1,19 @@
+---
+layout: default
+---
+
+{% for card in site.cards %}
+<div class="card">
+  <a href="{{ card.url }}">{{ card.title }}</a>
+  <p>{{ card.short-description }}</p>
+</div>
+{% endfor %}
+
+<br/>
+<h3>Take colors from <a href="http://eclipsecolorthemes.org/?view=theme&id=366">this theme</a><h3>
+
+    <!-- <div class="home"> -->
+
+    <!--   <p class="rss-subscribe">subscribe <a href="{{ "/feed.xml" | prepend: site.baseurl }}">via RSS</a></p> -->
+
+    <!-- </div> -->
