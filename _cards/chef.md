@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Ansible"
+title:  "Chef"
 tags: config-mng
 ---
 

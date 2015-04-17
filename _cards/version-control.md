@@ -1,3 +1,8 @@
+---
+layout: post
+title:  "Version Control"
+---
+
 ## Version Control
 
 ### Branching strategies

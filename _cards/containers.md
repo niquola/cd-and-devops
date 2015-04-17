@@ -1,8 +1,7 @@
-## Virtualization
-
-Vagrant as unified development env
-
-packer.io
+---
+layout: post
+title:  "Containers"
+---
 
 ### Machines pipeline
 
